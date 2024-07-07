@@ -7,7 +7,9 @@ data entry,traffic signal recognition and postal mail sorting etc.
 The aim of the project is to recognize the characters i.e. English Alphabets(A-Z).We will achieve this by modeling a neural network that will  be trained over a dataset containing images of alphabets.
 
 Language-Python
+
 IDE-Jupyter Notebook
+
 Required frameworks- Numpy,Pandas,cv2(openCV),Keras,Tensorflow,Matplotlib
 
 
