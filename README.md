@@ -13,4 +13,4 @@ IDE-Jupyter Notebook
 Required frameworks- Numpy,Pandas,cv2(openCV),Keras,Tensorflow,Matplotlib
 
 
-Dataset Link-https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
+Dataset Used in this project-https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
